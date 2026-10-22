@@ -18,7 +18,7 @@ stack_top:
 
 section .text
 global _start
-extern cubian_main
+extern mainsys
 
 _start:
     
