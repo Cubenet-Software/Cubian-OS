@@ -25,7 +25,7 @@ _start:
     mov esp, stack_top
 
     
-    call cubian_main
+    call mainsys
 
     
     cli
