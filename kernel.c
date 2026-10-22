@@ -10,7 +10,7 @@ void mainsys(uint32_t magic, uint32_t mbi) {
     for (;;) {
     }
 }
-int main() {
+int kmain() {
     printf("Welcome to Cubian");
     return 0;
 }
